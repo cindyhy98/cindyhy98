@@ -9,7 +9,7 @@ I’m currently expanding my expertise in **incident response**, **security fram
 
 ## 🌟 About Me
 
-🎓 I have a Joint Master's in **Cyber Security** from [**EPFL**](https://www.epfl.ch/education/master/programs/cyber-security/) & [**ETH Zurich**](https://ethz.ch/en/studies/master/degree-programmes/engineering-sciences/cyber-security.html).</br>
+🎓 I hold a Joint Master's in **Cyber Security** from [**EPFL**](https://www.epfl.ch/education/master/programs/cyber-security/) & [**ETH Zurich**](https://ethz.ch/en/studies/master/degree-programmes/engineering-sciences/cyber-security.html) in Switzerland🇨🇭.</br>
 🔍 My professional journey includes roles such as **Master Thesis Student** at [**CERN**](https://home.cern/), **Cybersecurity Specialist Intern** at [**Bug Bounty Switzerland**](https://www.bugbounty.ch/en/), and **Research Assistant** at [**NYCU**](https://dsns.cs.nycu.edu.tw/project.php).</br>
 🌱 I’m currently sharpening my skills in **SIEM tools**, **security automation**, and **cloud security**. I’m also eager to learn more about **threat modeling** and **security frameworks**.</br>
 💬 I enjoy collaborating with others in the security field and tackling complex problems, which is why I aspire to be a **SOC Analyst** or **Security Engineer**.</br>
