@@ -19,11 +19,46 @@ I’m currently expanding my expertise in **incident response**, **security fram
 
 ## 🛠️ My Skills
 
-- **Languages**: Python, Golang, C
-- **Tools & Frameworks**: Burp Suite, OWASP ZAP, SQLMap, Docker, Git, GitLab CI/CD, Firewalls, IDS/IPS
-- **Web Security**: Vulnerability Assessment, OWASP Top 10
-- **SIEM Tools**: Basic knowledge of **Splunk**, **ELK Stack**
-- **Learning**: Security Frameworks, Threat Modeling, Cloud Security
+### Programming Language
+<div>
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/-Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/-SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+</div>
+
+### Tools & Frameworks
+<div>
+  <img src="https://img.shields.io/badge/-Burp%20Suite-FF6F00?style=for-the-badge&logo=burp%20suite&logoColor=white" />
+<!--   <img src="https://img.shields.io/badge/-OWASP%20ZAP-000000?style=for-the-badge&logo=owasp&logoColor=white" /> -->
+  <img src="https://img.shields.io/badge/-Kali%20Linux-557C93?style=for-the-badge&logo=kali-linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Ghidra-8C9B3A?style=for-the-badge&logo=ghidra&logoColor=white" />
+  <img src="https://img.shields.io/badge/-SQLMap-CCA300?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Firewalls-E34F26?style=for-the-badge&logo=fortinet&logoColor=white" />
+  <img src="https://img.shields.io/badge/-IDS%2FIPS-007ACC?style=for-the-badge&logo=security&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/-GitLab%20CI%2FCD-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" /> 
+</div>
+
+### Web Security
+<div>
+  <img src="https://img.shields.io/badge/-Vulnerability%20Assessment-FFAA33?style=for-the-badge&logo=bugcrowd&logoColor=white" />
+  <img src="https://img.shields.io/badge/-OWASP%20Top%2010-000000?style=for-the-badge&logo=owasp&logoColor=white" />
+</div>
+
+### SIEM Tools
+<div>
+  <img src="https://img.shields.io/badge/-Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" />
+</div>
+
+### Learning 
+<div>
+  <img src="https://img.shields.io/badge/-Security%20Frameworks-0A66C2?style=for-the-badge&logo=cybersecurity&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Threat%20Modeling-FF6F00?style=for-the-badge&logo=security&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Cloud%20Security-00ADD8?style=for-the-badge&logo=cloud&logoColor=white" />
+</div>
 
 <!--
 ---
@@ -51,9 +86,9 @@ I’m actively working on enhancing my skills in the following areas:
 - **Security Engineer**: Enhancing network defense strategies and implementing automated security solutions for large-scale environments.
 
 ---
-
-## 📫 How to Reach Me
 <!--
+## 📫 How to Reach Me
+
 - LinkedIn: [Your LinkedIn Profile](link-to-linkedin)
 - Email: [Your Email](mailto:youremail@example.com)
 - GitHub: [github.com/yourusername](https://github.com/yourusername)
